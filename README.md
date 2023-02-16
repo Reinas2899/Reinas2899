@@ -18,7 +18,7 @@ Love technology and learning new things.
 
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester | | Graded |
 | --- | :---: | :---: |
-| Comunicações por Computador | [Project](https://github.com/eramsodoiseuros/FolderFastSync) in Java | 13 out of 20 |
+| Comunicações por Computador | [Project](https://github.com/Reinas2899/CC22-23) in Java | 13 out of 20 |
 | Desenvolvimento de Sistemas de Software | [Project](https://https://github.com/joaocasr/DSS22-23-GP1) in Java and UML | 18 out of 20 |
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | | Graded |
