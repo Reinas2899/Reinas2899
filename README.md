@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!</h1>
 
-I'm a Bachelor's student at University of Minho, currently at the final year. 
+I'm a Bachelor's student of Software Engineering at University of Minho, currently in the final year.
 
 ##  About me
 
