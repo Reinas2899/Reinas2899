@@ -8,7 +8,8 @@ I was born and raised in Porto, Portugal, where I currently live, always been a 
 Love technology and learning new things.
 
 ## 🎓 Bachelor's Projects
-
+| | | Graded |
+| --- | :---: | :---: |
 | Programação Orientada aos Objetos | [Project](https://github.com/eramsodoiseuros/Prog-Orientada-Objetos) in Java | 15 out of 20 |
 | Laboratórios de Informática III | [Projects](https://github.com/eramsodoiseuros/ProjetoLI3) with both a C and Java version | 15 out of 20 |
 | Bases de Dados | [Project](https://github.com/eramsodoiseuros/BD) in MySQL | 16 out of 20 |
