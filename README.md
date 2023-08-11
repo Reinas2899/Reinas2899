@@ -18,5 +18,5 @@ Love technology and learning new things.
 | Desenvolvimento de Sistemas de Software | [Project](https://github.com/joaocasr/DSS22-23-GP1) in Java and UML | 18 out of 20 |
 | Laboratórios de Informática IV | [Project](https://github.com/Reinas2899/LI4Project) in JavaScript | 14 out of 20 |
 | Inteligência Artificial | [Project](https://github.com/Reinas2899/IA) in Prolog | 17 out of 20 |
-
+| Processamento de Linguagens | [Project](https://github.com/Reinas2899/PL-TOML-JSON) in Python | 19 out of 20 |
 
