@@ -19,4 +19,5 @@ Love technology and learning new things.
 | Laboratórios de Informática IV | [Project](https://github.com/Reinas2899/LI4Project) in JavaScript | 14 out of 20 |
 | Inteligência Artificial | [Project](https://github.com/Reinas2899/IA) in Prolog | 17 out of 20 |
 | Processamento de Linguagens | [Project](https://github.com/Reinas2899/PL-TOML-JSON) in Python | 19 out of 20 |
+| Computação Gráfica | [Project](https://github.com/Reinas2899/CG) in C++ | 17 out of 20 |
 
