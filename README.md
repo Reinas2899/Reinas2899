@@ -4,8 +4,7 @@ I'm a Master's student of Software Engineering at University of Minho.
 
 ##  About me
 
-I was born and raised in Porto, Portugal, where I currently live, always been a curious kid.
-Love technology and learning new things.
+I was born and raised in Porto, Portugal, where I currently live, I've always been curious about technology and interested in learning new things.
 
 ## 🎓 Bachelor's Projects
 | | | Graded |
